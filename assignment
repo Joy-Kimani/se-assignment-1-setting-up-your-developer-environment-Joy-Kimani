@@ -1,0 +1,5 @@
+I installed Windows 10 using a bootable USB drive since my pc doesn't meet the requirements for windows 11. I installed windows 10 pro. I first downloaded windows ISO image and copied the files in a bootable USB drive.I used Ventoy to boot my drive. I foolowe the steps required in installation process, completed the setup and installed the necessary drivers and updates.
+
+2. Installed VScode. Downloaded the files from https://code.visualstudio.com/download. Installed the application and installed necessary requirements and extensions.
+
+3. Oracle VM machine. I use it to practice using terminal commands in different OSes. 
